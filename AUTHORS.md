@@ -280,6 +280,20 @@ authors.
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/ryanwhitehouse"><img src="https://avatars.githubusercontent.com/u/13400784?v=4?s=100" width="100px;" alt="Ryan Whitehouse"/><br /><sub><b>Ryan Whitehouse</b></sub></a><br /><a href="#content-ryanwhitehouse" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/guoard"><img src="https://avatars.githubusercontent.com/u/65511355?v=4?s=100" width="100px;" alt="Ali Afsharzadeh"/><br /><sub><b>Ali Afsharzadeh</b></sub></a><br /><a href="#content-guoard" title="Content">🖋</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="12.5%"><a href="http://keogami.ml"><img src="https://avatars.githubusercontent.com/u/41939011?v=4?s=100" width="100px;" alt="Keogami"/><br /><sub><b>Keogami</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=keogami" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/ahresse"><img src="https://avatars.githubusercontent.com/u/28402488?v=4?s=100" width="100px;" alt="Alexandre Esse"/><br /><sub><b>Alexandre Esse</b></sub></a><br /><a href="#content-ahresse" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://resilient.tech"><img src="https://avatars.githubusercontent.com/u/16315650?v=4?s=100" width="100px;" alt="Sagar Vora"/><br /><sub><b>Sagar Vora</b></sub></a><br /><a href="#content-sagarvora" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/poneciak57"><img src="https://avatars.githubusercontent.com/u/94321164?v=4?s=100" width="100px;" alt="Kacper Poneta"/><br /><sub><b>Kacper Poneta</b></sub></a><br /><a href="#content-poneciak57" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://ktheory.com/"><img src="https://avatars.githubusercontent.com/u/975?v=4?s=100" width="100px;" alt="Aaron Suggs"/><br /><sub><b>Aaron Suggs</b></sub></a><br /><a href="#content-ktheory" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/alexwh"><img src="https://avatars.githubusercontent.com/u/1723612?v=4?s=100" width="100px;" alt="Alex"/><br /><sub><b>Alex</b></sub></a><br /><a href="#content-alexwh" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/stornquist"><img src="https://avatars.githubusercontent.com/u/42915664?v=4?s=100" width="100px;" alt="Sebastian Törnquist"/><br /><sub><b>Sebastian Törnquist</b></sub></a><br /><a href="#content-stornquist" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="http://smlavine.com"><img src="https://avatars.githubusercontent.com/u/33563640?v=4?s=100" width="100px;" alt="Sebastian LaVine"/><br /><sub><b>Sebastian LaVine</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=smlavine" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="12.5%"><a href="http://www.alangerber.us"><img src="https://avatars.githubusercontent.com/u/201313?v=4?s=100" width="100px;" alt="Alan Gerber"/><br /><sub><b>Alan Gerber</b></sub></a><br /><a href="#content-akgerber" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="http://esotuvaka.github.io"><img src="https://avatars.githubusercontent.com/u/104941850?v=4?s=100" width="100px;" alt="Eric"/><br /><sub><b>Eric</b></sub></a><br /><a href="#content-esotuvaka" title="Content">🖋</a></td>
+    </tr>
   </tbody>
 </table>
 
